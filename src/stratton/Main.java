@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello, my name is Heather");
         
        System.out.println("Hello Heather, my name is Liz");
+       System.out.print.("This is to be removed");
     }
 }
